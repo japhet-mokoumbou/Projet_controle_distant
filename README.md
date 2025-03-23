@@ -1,6 +1,6 @@
-# RemoteControlApp
+# Projet_controle_distant
 
-**RemoteControlApp** est une application client-serveur développée en JavaFX permettant à un utilisateur d'exécuter des commandes système à distance via une interface graphique intuitive. Le serveur écoute les connexions des clients, exécute les commandes reçues et renvoie les résultats, tandis que le client offre une interface pour se connecter, envoyer des commandes et afficher l'historique.
+**Projet_controle_distant** est une application client-serveur développée en JavaFX permettant à un utilisateur d'exécuter des commandes système à distance via une interface graphique intuitive. Le serveur écoute les connexions des clients, exécute les commandes reçues et renvoie les résultats, tandis que le client offre une interface pour se connecter, envoyer des commandes et afficher l'historique.
 
 ## Fonctionnalités
 - Interface graphique moderne avec JavaFX pour le client et le serveur.
